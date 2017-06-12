@@ -1,0 +1,1 @@
+# This application converts temperature from degrees Celsius to degrees Fahrenheit.
